@@ -5,4 +5,9 @@ body {
 
 h1 {
 	text-align: center;
+	font-size: 5rem;
+}
+
+#assignments {
+	text-align: center;
 }
